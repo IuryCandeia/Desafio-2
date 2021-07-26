@@ -49,4 +49,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 O projeto é gestão de cadastro de cliente e produtos.
 
-Usei typescript com react para todo o projeito, como maneira de aprendizado e melhor para essa tecnologia.
+Usei typescript com react para todo o projeito, como maneira de aprendizado e melhorar para essa tecnologia.
